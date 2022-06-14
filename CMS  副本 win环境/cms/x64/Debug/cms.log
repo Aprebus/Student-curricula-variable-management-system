@@ -1,0 +1,10 @@
+﻿  admin.cpp
+  CMS.cpp
+  course.cpp
+  data.cpp
+  interface.cpp
+  student.cpp
+  teacher.cpp
+  正在生成代码...
+F:\学术与工程实践报告\CMS  副本 win环境\src\interface.cpp(289): warning C4715: “CInterface::WindowsGetPass”: 不是所有的控件路径都返回值
+  cms.vcxproj -> F:\学术与工程实践报告\CMS  副本 win环境\cms\x64\Debug\cms.exe
