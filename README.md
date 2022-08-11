@@ -1,4 +1,4 @@
-# CMS
+# 学生选课管理系统
 course management system
 学术与工程实践小学期课设
 
